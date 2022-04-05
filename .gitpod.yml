@@ -26,3 +26,4 @@ vscode:
   extensions:
     - ms-azuretools.vscode-docker
     - ms-python.python
+pyenv install -v 3.7.2
