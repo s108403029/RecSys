@@ -28,6 +28,6 @@ vscode:
     - ms-python.python
 # Install Python 3.7.2
 pyenv install -v 3.7.2
-pyenv global 3.7.2 # Set Python 3.7.2 as default
+pyenv global 3.7.2 
 # Install all libraries
 python -m pip install -r requirements.txt
